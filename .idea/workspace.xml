@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c2a5c9f-ac36-4756-afd8-e4acbba1059e" name="Changes" comment="commit marco.exe" />
+    <list default="true" id="4c2a5c9f-ac36-4756-afd8-e4acbba1059e" name="Changes" comment="commit lorenzo.cpp" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +61,7 @@
       <updated>1683624711406</updated>
       <workItem from="1683624715160" duration="679000" />
       <workItem from="1683625596193" duration="158000" />
+      <workItem from="1683625756438" duration="345000" />
     </task>
     <task id="LOCAL-00001" summary="terzocommit">
       <created>1683624780185</created>
@@ -76,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683625136384</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit lorenzo.cpp">
+      <created>1683625804524</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683625804524</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="terzocommit" />
     <MESSAGE value="commit marco.exe" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit marco.exe" />
+    <MESSAGE value="commit lorenzo.cpp" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit lorenzo.cpp" />
   </component>
 </project>
