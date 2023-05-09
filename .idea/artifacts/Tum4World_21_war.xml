@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Tum4World_21:war">
+    <output-path>$PROJECT_DIR$/Tum4World_21/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Tum4World_21</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Tum4World_21-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Tum4World_21:war exploded" />
+    </root>
+  </artifact>
+</component>
