@@ -8,7 +8,7 @@
       </options>
     </properties>
     <root id="archive" name="Tum4World_21-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="Tum4World_21:war exploded" />
+      <element id="artifact" artifact-name="Tum4World_21" />
     </root>
   </artifact>
 </component>
