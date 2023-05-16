@@ -4,6 +4,7 @@
 <main>
     <script type="text/javascript" src="jsIndex.js"></script>
     <div id="corpo">
+        <p>Daje roma</p>
         <h3>DESCRIZIONE</h3>
         <p>
             Eh ça c'est Vegedream de Gagnoa
