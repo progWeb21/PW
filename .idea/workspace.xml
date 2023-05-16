@@ -3,6 +3,7 @@
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
       <artifact name="Tum4World_21" />
+      <artifact name="Tum4World_21" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,15 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c2a5c9f-ac36-4756-afd8-e4acbba1059e" name="Changes" comment="aggiunti file vecchia versione di grisenti">
-      <change afterPath="$PROJECT_DIR$/Tum4World_21/src/main/webapp/intestazione.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tum4World_21/src/main/webapp/intestazione.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tum4World_21/src/main/webapp/jsIndex.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Tum4World_21_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Tum4World_21_war.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Tum4World_21_war_exploded.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Tum4World_21.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tum4World_21/src/main/webapp/StyleIndex.css" beforeDir="false" afterPath="$PROJECT_DIR$/Tum4World_21/src/main/webapp/StyleIndex.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tum4World_21/src/main/webapp/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tum4World_21/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Tum4World_21/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +65,9 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/loren/OneDrive/Family/Lorenzo e Martina/Scuola/Lorenzo/Università/ProgWeb/PW&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Utente/Desktop/PW_L&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -89,23 +84,7 @@
       <recent name="C:\Users\loren\OneDrive\Family\Lorenzo e Martina\Scuola\Lorenzo\Università\ProgWeb\PW\Tum4World_21\src\main\webapp\Images" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 7.0.107">
-    <configuration name="index.jsp" type="JavascriptDebugType" temporary="true" uri="http://localhost:63342/PW/Tum4World_21/src/main/webapp/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="PW" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="PW" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Tomcat 7.0.107" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.107" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -190,18 +169,10 @@
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
           <artifact name="Tum4World_21" />
+          <artifact name="Tum4World_21" />
         </option>
       </method>
     </configuration>
-    <list>
-      <item itemvalue="JavaScript Debug.index.jsp" />
-      <item itemvalue="Tomcat Server.Tomcat 7.0.107" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.index.jsp" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -215,6 +186,7 @@
       <workItem from="1683625596193" duration="158000" />
       <workItem from="1683625756438" duration="1001000" />
       <workItem from="1683707556747" duration="402000" />
+      <workItem from="1684221946676" duration="179000" />
     </task>
     <task id="LOCAL-00001" summary="terzocommit">
       <created>1683624780185</created>
