@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Tum4World_21" />
+      <artifact name="Tum4World_21:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,15 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c2a5c9f-ac36-4756-afd8-e4acbba1059e" name="Changes" comment="aggiunti file vecchia versione di grisenti">
-      <change afterPath="$PROJECT_DIR$/Tum4World_21/src/main/webapp/intestazione.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tum4World_21/src/main/webapp/intestazione.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tum4World_21/src/main/webapp/jsIndex.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Tum4World_21_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Tum4World_21_war.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Tum4World_21_war_exploded.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tum4World_21/src/main/webapp/StyleIndex.css" beforeDir="false" afterPath="$PROJECT_DIR$/Tum4World_21/src/main/webapp/StyleIndex.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tum4World_21/src/main/webapp/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tum4World_21/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Tum4World_21/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tum4World_21/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Tum4World_21/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +28,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -89,24 +83,8 @@
       <recent name="C:\Users\loren\OneDrive\Family\Lorenzo e Martina\Scuola\Lorenzo\Università\ProgWeb\PW\Tum4World_21\src\main\webapp\Images" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 7.0.107">
-    <configuration name="index.jsp" type="JavascriptDebugType" temporary="true" uri="http://localhost:63342/PW/Tum4World_21/src/main/webapp/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="PW" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="PW" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tomcat 7.0.107" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.107" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.75" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.75" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="Tum4World_21">
@@ -116,7 +94,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="7ad5d2a6-c9a9-4ddb-89f0-2447e8dc6cb0" />
+        <option name="BASE_DIRECTORY_NAME" value="70873ba3-5510-4238-b130-072304a07181" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -124,7 +102,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="55681" />
+        <option name="DEBUG_PORT" value="50055" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -193,15 +171,6 @@
         </option>
       </method>
     </configuration>
-    <list>
-      <item itemvalue="JavaScript Debug.index.jsp" />
-      <item itemvalue="Tomcat Server.Tomcat 7.0.107" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.index.jsp" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
